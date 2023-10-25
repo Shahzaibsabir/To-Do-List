@@ -44,3 +44,16 @@
 }
 
 
+.text, input{
+   /*background-color: blueviolet;
+   */height: 30px;
+   width: 50%;
+   margin: 0px 30px;
+   border-radius: 30px;
+   -webkit-border-radius: 30px;
+   -moz-border-radius: 30px;
+   -ms-border-radius: 30px;
+   -o-border-radius: 30px;
+ 
+}
+
