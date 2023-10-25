@@ -95,3 +95,10 @@ li{
     -o-border-radius: 30px;
 }
 
+span{
+   float: right;
+   margin: 0px 10px;
+   cursor: pointer;
+}
+
+
